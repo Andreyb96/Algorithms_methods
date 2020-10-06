@@ -1,0 +1,5 @@
+2.4 O-символика
+	2.4.1. log3(2n) = log3(2) + log3(n); n^(log3(7)) = 7^(log3(n))
+	2.4.2. n! = Omega(2^n); sqrt(n) = Omega(log2(n)^3); 2^n = Theta(2^(n+1)); n^0.5 = O(5^log2(n))
+	2.4.3. log5(n); n^0.3; sqrt(n); n*log2(n); n*log2(n)^3; n^3; 4^n
+	2.4.4. log2(log2(n)); sqrt(log4(n)); log3(n); log2(n)^2; sqrt(n); n/log5(n); log2(n!); 3^log2(n); n^2; 7^log2(n); log2(n)^log2(n); n^log2(n); n^sqrt(n); 2^n; 4^n; 2^3n; n!; 2^2^n
